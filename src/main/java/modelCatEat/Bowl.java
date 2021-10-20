@@ -1,7 +1,7 @@
 package modelCatEat;
 
 public class Bowl {
-    private CatCat cat;
+    
     private int food;
     private String foodname;
 
